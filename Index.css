@@ -1,0 +1,89 @@
+body{
+    background-image: url(/รูปภาพ/wallpapersden.com_small-memory_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -o-background-size: 100% 100%, auto;
+    -moz-background-size: 100% 100%, auto;
+    -webkit-background-size: 100% 100%, auto;
+    background-size: 100% 100%, auto;
+}
+nav{
+    width: 95%;
+    margin: auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu{
+    display: inline-block;
+    position: relative;
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 40px;
+    margin: 0 20px;
+}
+.button{
+    margin: 0 20px;
+    color: rgb(255, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 40px;
+}
+h1{
+    color: rgb(255, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 50px;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 60px;
+}
+h3{
+    color: rgb(0, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 25px;
+}
+h4{
+    color: rgb(255, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 45px;
+}
+p{
+    color: rgb(0, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 20px;
+}
+.info{
+    width: 100%;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Under{
+    display: flex;
+    justify-content: center;
+}
+.Pro{
+    display: flex;
+    justify-content: center;
+    margin: 0 20px;
+}
+.Rob{
+    display: flex;
+    justify-content: center;
+    margin: 0 20px;
+}
+.Pro2{
+    margin: 0 100px;
+}
+.Rob2{
+    margin: 0 100px;
+}
